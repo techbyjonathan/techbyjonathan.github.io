@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: lightgreen;
+
+}
+article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    color: lightgreen;
+}
+h2 {
+    color: rgb(172, 161, 144);
+}
